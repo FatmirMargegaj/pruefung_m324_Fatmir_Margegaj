@@ -1,4 +1,6 @@
 // Main Branch Change
+//merge conflict
+// index.js
 import chalk from "chalk";
 
 console.log(chalk.blue('It works'));
