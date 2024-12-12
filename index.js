@@ -1,4 +1,4 @@
-// index.js
+// Main Branch Change
 import chalk from "chalk";
 
 console.log(chalk.blue('It works'));
